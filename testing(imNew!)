@@ -1,0 +1,6 @@
+function makeCoffeeWithMokaPot (firstValue, secondValue) {
+let coffee = firstValue + secondValue;
+return coffee;
+}
+let myCoffee = makeCoffeeWithMokaPot(water, groundCoffee);
+//myCoffee is now freshly brewed coffee
